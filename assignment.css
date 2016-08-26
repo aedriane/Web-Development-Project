@@ -1,0 +1,195 @@
+
+/* main page layout */
+div#page
+{
+	position: relative;
+	min-height: 100%;
+	width: 100%;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+}
+
+/* banner and logo */
+div#banner 
+{
+	clear: both;
+	position: relative;
+	width: 100%;
+	float: left;
+}
+
+div#logo
+{
+    position: relative;
+    display: block;
+    height: 100px;
+    width: 142px;
+    margin: 10px auto;
+    bottom:-32px;
+}
+
+div#rotating
+{
+	position: relative;
+    display: block;
+    width: 100%;
+    text-align: center;
+    padding: 1em 0;
+    padding-bottom: 1.5em;
+}
+
+div#space
+{
+	width: 100%;
+    clear: both;
+    border-bottom: 1px solid #cfdaea;
+    text-align: center;
+}
+
+div#upcoming
+{
+    display:inline-block;
+    padding:10px;
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding: 1em .5em;
+    color: black;
+    text-align: center;
+    width:99%;
+}
+
+div#itemText
+{
+    display:inline-block;
+    padding:10px;
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding: 1em .5em;
+    color: black;
+    text-align: center;
+    width:99%;
+}
+
+div#footer
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+}
+
+div#noticefooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:507px;
+}
+
+div#aboutfooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:559px;
+}
+
+div#loginfooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:390px;
+}
+
+div#about
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-weight: 100;
+    font-size:13px;
+    text-align:center;
+    width:35%;
+    position: absolute;
+    left:620px;
+
+}
+
+div#form
+{
+    position: relative;
+    top:100px;
+    text-align:center;
+
+}
+
+div#individualfooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:97px;    
+}
+
+div#displayfooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:464px;   
+}
+
+div#addfooter
+{
+    font-family: 'QuestrialRegular',Arial,Helvetica,sans-serif;
+    font-size:12px;
+    background:#EBEBEB;
+    height: 100%;
+    height: auto !important;
+    position:relative;
+    margin: 0 auto -4em;
+    text-align:center;
+    top:326px;  
+}
+
+div#added
+{
+    text-align: center;
+}
+
+
+
